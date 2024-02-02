@@ -2,7 +2,7 @@
 
 body{
     color: #263238;
-    background-color: #81c783;
+    background-color: #49623c;
     font-family: 'Suranna', sans-serif;                                    
 }
 
@@ -37,10 +37,18 @@ a:hover{
     
     margin-top: 10%;
 }
-.logo{
-    width: 100%;
-    height: 100%;
+.strike{
+    margin-left: auto;
+    margin-right: auto;
     display: block;
+}
+#intro{
+    font-size: 8em;
+}
+.logo{
+    width: 10%;
+    margin-bottom: -4px;
+    height: 10%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -99,6 +107,9 @@ a:hover{
     .dot{
         width: 5px;
         height: 5px;
+    }
+    #intro{
+        font-size: 2em;
     }
     
 }
