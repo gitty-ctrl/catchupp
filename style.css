@@ -1,9 +1,9 @@
-@import url(https://use.typekit.net/xuh6cog.css);
+@import url(https://fonts.cdnfonts.com/css/suranna);
 
 body{
     color: #fff;
     background-color: #81c783;
-    font-family: futura-pt, sans-serif;
+    font-family: 'Suranna', sans-serif;                                    
 }
 
 .header{
